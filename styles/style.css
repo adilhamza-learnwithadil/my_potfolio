@@ -11,6 +11,10 @@
 
 header{
   background-color: #FFF8F3;
+  background-image: url('../images/header_bg.png');
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 730px;
 }
 
 nav{
@@ -79,7 +83,7 @@ li a:hover{
 }
 
 .banner{
-  background-color: #FFF8F3;
+  /* background-color: #FFF8F3; */
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -95,4 +99,17 @@ li a:hover{
 
 .home_info{
   width: 500px;
+}
+
+.gritting{
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.name{
+  font-size: 50px;
+}
+
+.ab{
+  color: #757575;
 }

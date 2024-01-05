@@ -5,8 +5,8 @@
 }
 /* Navbar */
 .container{
-  margin-left: 80px;
-  margin-right: 80px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
 
 header{
@@ -25,6 +25,17 @@ nav{
   background-color: #fd6e0a;
   color: white;
   padding: 15px 25px;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.btn-2{
+  border: 1px solid #fd6e0a;
+  background-color: #FFF8F3;
+  color: #fd6e0a;
+  padding: 14px 25px;
   border-radius: 5px;
   font-size: 15px;
   font-weight: 700;
@@ -60,4 +71,28 @@ li a{
 
 li a:hover{
   color: #fd6e0a;
+}
+
+.ico{
+  font-size: 20px;
+  margin-right: 3px;
+}
+
+.banner{
+  background-color: #FFF8F3;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.gritting, .name, p{
+  margin-bottom: 10px;
+}
+
+.banner .pic{
+  width: 500px;
+}
+
+.home_info{
+  width: 500px;
 }

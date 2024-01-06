@@ -139,6 +139,7 @@ li a:hover{
 }
 
 
+
 .abouts{
   background-color: #FFF8F3;
   align-items: center;
@@ -166,4 +167,62 @@ li a:hover{
   text-align: center;
   justify-content: center;
   margin-top: 40px;
+}
+
+
+/* What I do */
+
+.wh_me2{
+  color: #757575;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px; /* 166.667% */
+  margin-top: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.skill{
+  margin-bottom: 100px;
+}
+
+.skils{
+  display: flex;
+  justify-content: center;
+}
+
+
+.skil{
+  width: 200px;
+  background-color: #ffffff;
+  padding: 30px 30px;
+  border-radius: 10px;
+  box-shadow: 0 10px 80px 0 rgba(159, 159, 159, 0.19);
+  margin-left: 60px;
+  margin-top: 30px;
+}
+
+.skil:hover{
+  background-color: #fbfafa;
+  box-shadow: 0 10px 80px 0 #FFF8F3;
+  transition: 0.3s;
+}
+
+.one{
+  margin: 30px 0 0 0;
+}
+
+.skil_img{
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+
+.skil_title{
+  margin-bottom: 20px;
+}
+
+.skill_p{
+  line-height: 25px;
 }

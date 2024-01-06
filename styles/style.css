@@ -274,3 +274,59 @@ li a:hover{
   text-align: center;
   margin-top: 50px;
 }
+
+
+/* Footer */
+.bg{
+  background-color: #FFF8F3;
+  margin-top: 50px;
+}
+
+.connect{
+  width: 550px;
+}
+
+.message{
+  width: 550px;
+}
+
+.sec_title2{
+  color: #181818;
+  font-size: 25px;
+  font-weight: 800;
+}
+
+.cont{
+  justify-content: space-between;
+  display: flex;
+  padding: 100px 0;
+}
+
+
+.social a{
+  text-decoration: none;
+  color: #fd6e0a;
+  font-size: 18px;
+  margin-right: 20px;
+}
+
+input[type=text],input[type=email], select, textarea{
+  width: 100%;
+  padding: 12px;
+  border: none;
+  background-color: white;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=text],input[type=email]{
+  height: 55px;
+}
+
+
+.form, .con_p, .social{
+  margin-top: 20px;
+}

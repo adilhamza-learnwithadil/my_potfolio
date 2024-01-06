@@ -226,3 +226,51 @@ li a:hover{
 .skill_p{
   line-height: 25px;
 }
+
+/* A summary of My Resume */
+.education{
+  width: 500px;
+}
+
+.year{
+  font-size: 17px;
+  color: #757575;
+}
+
+.edu_exp{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 80px;
+}
+
+.ti_my{
+  font-size: 25px;
+  color: #474747;
+  margin-bottom: 20px;
+}
+
+.sub_tit{
+  color: #474747;
+  margin-bottom: 2px;
+  font-size: 18px;
+}
+
+.edu_p{
+  font-size: 15px;
+  color: #757575;
+  line-height: 25px;
+}
+
+.line{
+  width: 500px;
+  height: 1px;
+  background-color: #D1D1D1;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.ali{
+  align-items: center;
+  text-align: center;
+  margin-top: 50px;
+}

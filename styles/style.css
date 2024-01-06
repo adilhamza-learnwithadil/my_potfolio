@@ -113,3 +113,57 @@ li a:hover{
 .ab{
   color: #757575;
 }
+
+
+/* ABOUT */
+.about{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+
+.sec_title{
+  color: #181818;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 800;
+}
+
+.ab_me{
+  color: #757575;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px; /* 166.667% */
+  margin-top: 20px;
+}
+
+
+.abouts{
+  background-color: #FFF8F3;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 100px 240px;
+  border-radius: 10px;
+}
+
+.con{
+  margin-right: 50px;
+}
+
+.co{
+  font-weight: 700;
+}
+
+.co_title{
+  color: #757575;
+}
+
+.all_con{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  margin-top: 40px;
+}
